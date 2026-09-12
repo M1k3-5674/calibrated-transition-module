@@ -1,0 +1,25 @@
+CTM — run sheet for a non-coder
+===============================
+
+1. Clone or unzip.
+2. Open a terminal in the folder.
+3. Create a virtual environment and install:
+
+   python3 -m venv .venv
+   source .venv/bin/activate          (Windows: .venv\Scripts\Activate.ps1)
+   pip install -r requirements.txt
+
+4. Run the demo:
+
+   python integration_example.py --quiet
+
+5. You should see admit / quarantine / reject lines and a ledger file
+   named evidence_ledger.jsonl in the same folder.
+
+6. Optional proof:
+
+   pytest tests/test_calibrated_transition.py -q
+
+If a step fails, the failure is in the environment (Python missing, pip
+blocked, folder wrong). The module itself does not require you to write
+code.

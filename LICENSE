@@ -1,0 +1,62 @@
+TSG Source-Available License v1.1
+Copyright (c) 2026 Kevin Michael Lent (“Mike”). All rights reserved.
+
+SPDX-License-Identifier: LicenseRef-TSG-SA-1.1
+
+This license is how the work stays open enough to continue, while the
+author stays in the loop, in the updates, and in future money.
+
+0. Holder
+   Copyright holder: Kevin Michael Lent
+   Official source: https://github.com/M1k3-5674/calibrated-transition-module
+
+1. You may (no fee, no permission slip)
+   a. View, clone, and study this repository.
+   b. Run the software for personal use, research, evaluation, and
+      internal non-commercial work.
+   c. Modify the software for those same uses.
+   d. Share unmodified or modified copies if every copy keeps:
+      - this license file
+      - the copyright line
+      - NOTICE
+      - clear credit to Kevin Michael Lent
+
+2. You must (this is the loop)
+   a. Keep this license and copyright on every copy and substantial
+      portion.
+   b. If you publish a public fork, port, or derivative, open an issue
+      on the official source titled “Derivative notice” within 14 days
+      and include a URL. That is how the author stays in the updates.
+   c. Do not remove or rename the author’s credit.
+   d. If you submit a pull request or patch to the official source, you
+      grant the copyright holder a perpetual, worldwide, royalty-free
+      right to use, modify, and ship that contribution in future free
+      and paid releases. You keep copyright in your contribution; you
+      do not take ownership of the project.
+
+3. You may not without a written commercial grant from the copyright holder
+   a. Sell this software, this pack, or a product whose primary value
+      is this software.
+   b. Offer this software as a paid hosted service.
+   c. Sell licenses, seats, or support contracts for this software.
+   d. Strip the license and re-release the work as if it were yours.
+   e. Use the names “Calibrated Transition Module”, “CTM”,
+      “Transition Layer”, or “TSG” as a product brand you own.
+
+4. Future money
+   Commercial rights stay with Kevin Michael Lent.
+   Paid packs, additional seats, hosted offerings, and later versions
+   are sold or granted only by the copyright holder.
+   To buy a commercial grant, open an issue titled “Commercial grant”
+   on the official source.
+
+5. No warranty
+   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+
+6. Termination
+   If you break sections 2 or 3, this license ends. Section 4 and the
+   copyright remain.
+
+This is not MIT, not GPL, and not public domain.
+View and continue: yes.
+Take the product and the future money: no.

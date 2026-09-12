@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calibrated-transition-module"
+version = "1.0.0"
+description = "Calibrated Transition Module — routes signals to admit, quarantine, or reject."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Kevin Michael Lent" }]
+license = { text = "LicenseRef-TSG-SA-1.1" }
+dependencies = ["numpy>=1.21"]
+
+[project.optional-dependencies]
+full = ["scipy>=1.7", "matplotlib>=3.4"]
+test = ["pytest>=7.0"]
+
+[tool.setuptools]
+py-modules = ["calibrated_transition", "harness", "integration_example"]
